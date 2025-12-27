@@ -1,6 +1,6 @@
 body, #top_banner, #input {
     background: #000;
-    color: #0F0;
+    color: #00000000;
     font-family: console, monospace;
 }
 #input {
@@ -115,4 +115,5 @@ body, #top_banner, #input {
 }
 #emojiTray, #emojiTrayToggle {
     display: none !important;
+
 }
