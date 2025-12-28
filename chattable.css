@@ -1,5 +1,5 @@
 body, #top_banner, #input {
-    background: #000;
+    background: #121212;
     color: #0F0;
     font-family: console, monospace;
 }
@@ -171,3 +171,4 @@ background-color: #000000;
     margin: auto;
     display: none;
 }
+
