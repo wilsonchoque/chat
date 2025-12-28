@@ -1,7 +1,11 @@
 body, #top_banner, #input {
     background: #000;
-    color: #00ff0000;
+    color: #0F0;
     font-family: console, monospace;
+}
+
+body, #top_banner{    
+    color: #00000000;  
 }
 #input {
     border-top: solid 1px #555;
@@ -117,4 +121,5 @@ body, #top_banner, #input {
     display: none !important;
 
 }
+
 
