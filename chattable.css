@@ -4,7 +4,7 @@ body, #top_banner, #input {
     font-family: console, monospace;
 }
 
-body, #top_banner{    
+#top_banner{    
     color: #00000000;  
 }
 #input {
@@ -121,5 +121,6 @@ body, #top_banner{
     display: none !important;
 
 }
+
 
 
