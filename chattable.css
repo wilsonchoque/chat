@@ -147,5 +147,13 @@ background-color: #000000;
 .owner {
     background-color: #ffffff00;
 }
+.badge {
+    height: 8pt;
+    width: 10pt;
+    display: inline-block;
+    border-radius: 50%;
+    user-select: none;
+    margin-right: 2px;
+}
 
 
