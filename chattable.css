@@ -117,8 +117,9 @@ body, #top_banner, #input {
     margin-left: 10px;
     font-size: 8pt;
 }
-#emojiTray, #emojiTrayToggle {  
 
+#emojiTray {  
+background-color: #000000;
 }
 
 :where(#emojiTrayToggle) {
@@ -135,5 +136,6 @@ body, #top_banner, #input {
     background-image: url(/media/emoji.png);
     background-size: 100% 100%;
 }
+
 
 
