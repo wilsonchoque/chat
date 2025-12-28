@@ -172,3 +172,17 @@ background-color: #000000;
     display: none;
 }
 
+#loginBanner {
+    display: none !important;
+    overflow: hidden;
+    background-color: #4A7;
+    color: #FFF !important;
+    font-weight: bolder;
+    font-family: Arial, sans-serif;    
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 10px;
+    height: 0;
+    transition: all 1s ease-out;
+    text-decoration: none;
+}
