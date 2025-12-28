@@ -5,7 +5,7 @@ body, #top_banner, #input {
 }
 
 #top_banner{    
-    color: #00000000;  
+    display: none;  
 }
 #input {
     border-top: solid 1px #555;
@@ -161,4 +161,13 @@ background-color: #000000;
     background: rgb(249 249 249 / 20%);
     background-image: url("https://cdn-icons-png.flaticon.com/512/6364/6364343.png") !important;
     
+}
+
+#footer {
+    padding: 2.5vw;
+    font-size: 10pt;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    display: none;
 }
