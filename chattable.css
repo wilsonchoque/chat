@@ -138,4 +138,11 @@ background-color: #000000;
 }
 
 
+.owner {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6364/6364343.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 24px 24px; /* tamaño del ícono */
+}
+
 
