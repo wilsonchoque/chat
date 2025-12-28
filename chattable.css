@@ -139,10 +139,13 @@ background-color: #000000;
 
 
 .owner {
-    background-image: url("https://cdn-icons-png.flaticon.com/512/6364/6364343.png");
+    background-image: url("https://cdn-icons-png.flaticon.com/512/6364/6364343.png") !important;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 24px 24px; /* tamaño del ícono */
+    background-size: 10px 10px; /* tamaño del ícono */
+}
+.owner {
+    background-color: #ffffff00;
 }
 
 
